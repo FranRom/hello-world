@@ -1,4 +1,5 @@
 {
+  "principals": ["FranRom"],
   "rings": {
     "ring1_forgeWriteInterception": false,
     "ring2_asyncAudits": false
