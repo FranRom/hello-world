@@ -1,5 +1,5 @@
 ---
 description: Act as an AEG role for this repo.
-allowed-tools: Bash(vinaya doctrine *)
+allowed-tools: Bash(npx --yes @attalabs/vinaya@0.19.3 doctrine *)
 ---
-!`vinaya doctrine --role "$ARGUMENTS"`
+!`npx --yes @attalabs/vinaya@0.19.3 doctrine --role "$ARGUMENTS"`
